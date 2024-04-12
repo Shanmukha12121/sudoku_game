@@ -1,0 +1,2 @@
+Welcome to our Sudoku game project, where we have harnessed the power of backtracking algorithms and the versatility of the Pygame library to create a captivating and challenging puzzle experience. Immerse yourself in the world of Sudoku as we guide you through the development process and the techniques used to generate puzzles of varying difficulties.
+![image](https://github.com/Shanmukha12121/sudoku_game/assets/153660825/5d6676ea-ac6a-4bc2-8922-905f11b14048)
